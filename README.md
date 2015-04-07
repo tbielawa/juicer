@@ -1,3 +1,6 @@
+[![Build Status](https://api.travis-ci.org/tbielawa/juicer.png)](https://travis-ci.org/tbielawa/juicer/)
+
+
 Juicer
 ------
 ```
